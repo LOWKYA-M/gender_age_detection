@@ -16,3 +16,11 @@
   <li>gender_net.caffemodel</li>
   <li>a few pictures to try the project on</li>
  </ul>
+
+
+<h2>Examples :</h2>
+    >python detect.py --image 10.jpg
+    Gender: Female
+    Age: 25-32 years
+    
+<img src="sample output/Screenshot 10.png">

@@ -16,12 +16,12 @@
   <li>gender_net.caffemodel</li>
   <li>a few pictures to try the project on</li>
  </ul>
-
-
+ 
+ 
 <h2>Examples :</h2>
     >python gender_age_detection.py --image 10.jpg
     Gender: Female
     Age: 8-12 years
     
-<img src="sample output/Screenshot(167).png">
-
+    
+![](sample%20output/Screenshot%20(167).png)

@@ -19,8 +19,8 @@
 
 
 <h2>Examples :</h2>
-    >python detect.py --image 10.jpg
+    >python gender_age_detection.py --image 10.jpg
     Gender: Female
-    Age: 25-32 years
+    Age: 8-12 years
     
-<img src="sample output/Screenshot 10.png">
+<img src="sample output/Screenshot(167).png">
